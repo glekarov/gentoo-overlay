@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>glekarov@gmail.com</email>
+        <name>Grigor Lekarov</name>
+    </maintainer>
+    <longdescription>
+        Manage your JetBrains tools easily
+        - Install
+        - Update automatically
+        - Update the plugins together with IDE
+        - Roll back and downgrade
+    </longdescription>
+</pkgmetadata>
